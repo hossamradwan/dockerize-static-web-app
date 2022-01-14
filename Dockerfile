@@ -1,13 +1,3 @@
-# FROM ubuntu
-
-# RUN mkdir game
-
-# ADD . /game
-
-# EXPOSE 80
-
-# WORKDIR /game
-
 FROM ubuntu
 
 ENV DEBIAN_FRONTEND noninteractive
